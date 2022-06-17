@@ -47,7 +47,7 @@ plt.title("hours Vs scores(train)")
 plt.xlabel("hours")
 plt.ylabel("scores")
 plt.show()
-```
+
 ## Output:
 ![image](https://user-images.githubusercontent.com/98682825/174340291-ba8cccdc-c981-42fe-bebb-bb0a0959d136.png)
 
