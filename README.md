@@ -15,6 +15,7 @@ To write a program to implement the linear regression using gradient descent.
 5.Predict the regression for marks by using the representation of the graph.
 6.Compare the graphs and hence we obtained the linear regression for the given datas
 
+```
 ## Program:
 Program to implement the linear regression using gradient descent.
 Developed by: KIRUTHIGA M
@@ -47,7 +48,7 @@ plt.title("hours Vs scores(train)")
 plt.xlabel("hours")
 plt.ylabel("scores")
 plt.show()
-
+```
 ## Output:
 ![image](https://user-images.githubusercontent.com/98682825/174340291-ba8cccdc-c981-42fe-bebb-bb0a0959d136.png)
 
